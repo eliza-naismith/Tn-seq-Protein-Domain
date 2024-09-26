@@ -1,0 +1,568 @@
+Name	Accession	Description	Interval	E-value
+Histidinol_dh	pfam00815	
+Histidinol dehydrogenase;
+175375-176622	0e+00
+NadA	pfam02445	
+Quinolinate synthetase A protein; Quinolinate synthetase catalyzes the second step of the de ...
+170620-171510	4.76e-138
+MeaB	pfam03308	
+Methylmalonyl Co-A mutase-associated GTPase MeaB; Family members were previously thought to be ...
+74071-74889	2.33e-132
+GPAT_C	pfam19277	
+Glycerol-3-phosphate acyltransferase C-terminal region; This entry represents the C-terminal ...
+130579-131670	1.08e-96
+AAA_3	pfam07726	
+ATPase family associated with various cellular activities (AAA); This Pfam entry includes some ...
+56611-57003	5.47e-77
+Gp_dh_C	pfam02800	
+Glyceraldehyde 3-phosphate dehydrogenase, C-terminal domain; GAPDH is a tetrameric NAD-binding ...
+487-954	2.62e-76
+DUF2567	pfam10821	
+Protein of unknown function (DUF2567); This is a bacterial family of proteins with unknown ...
+167395-167895	2.83e-69
+His_biosynth	pfam00977	
+Histidine biosynthesis protein; Proteins involved in steps 4 and 6 of the histidine ...
+179038-179730	2.48e-63
+PALP	pfam00291	
+Pyridoxal-phosphate dependent enzyme; Members of this family are all pyridoxal-phosphate ...
+140050-140934	1.73e-56
+Mycobact_memb	pfam05423	
+Mycobacterium membrane protein; This family contains several membrane proteins from ...
+136156-136569	5.34e-53
+NifU_N	pfam01592	
+NifU-like N terminal domain; This domain is found in NifU in combination with pfam01106. This ...
+39901-40275	1.66e-47
+Aminotran_1_2	pfam00155	
+Aminotransferase class I and II;
+152560-153564	9.33e-43
+Gp_dh_N	pfam00044	
+Glyceraldehyde 3-phosphate dehydrogenase, NAD binding domain; GAPDH is a tetrameric ...
+7-330	1.14e-39
+UbiA	pfam01040	
+UbiA prenyltransferase family;
+22081-22779	3.74e-39
+Fer2_3	pfam13085	
+2Fe-2S iron-sulfur cluster binding domain; The 2Fe-2S ferredoxin family have a general core ...
+133837-134148	6.07e-39
+NMO	pfam03060	
+Nitronate monooxygenase; Nitronate monooxygenase (NMO), formerly referred to as 2-nitropropane ...
+107992-109071	3.90e-36
+Peptidase_A8	pfam01252	
+Signal peptidase (SPase) II;
+116737-117156	4.24e-36
+Fumarate_red_C	pfam02300	
+Fumarate reductase subunit C; Fumarate reductase is a membrane-bound flavoenzyme consisting of ...
+134566-134934	8.65e-36
+NLPC_P60	pfam00877	
+NlpC/P60 family; The function of this domain is unknown. It is found in several lipoproteins.
+55900-56247	2.82e-34
+adh_short	pfam00106	
+short chain dehydrogenase; This family contains a wide variety of dehydrogenases.
+119602-120174	4.04e-34
+IMS	pfam00817	
+impB/mucB/samB family; These proteins are involved in UV protection (Swiss).
+114244-114687	1.77e-32
+Thr_dehydrat_C	pfam00585	
+C-terminal regulatory domain of Threonine dehydratase; Threonine dehydratases pfam00291 all ...
+140971-141249	8.42e-30
+Glycos_transf_2	pfam00535	
+Glycosyl transferase family 2; Diverse family, transferring sugar from UDP-glucose, ...
+77971-78381	6.37e-28
+IMS_C	pfam11799	
+impB/mucB/samB family C-terminal domain; These proteins are involved in UV protection (Swiss).
+114949-115254	2.31e-27
+Methyltransf_11	pfam08241	
+Methyltransferase domain; Members of this family are SAM dependent methyltransferases.
+92524-92808	4.87e-27
+ABC_tran	pfam00005	
+ABC transporter; ABC transporters for a large family of proteins responsible for translocation ...
+37903-38355	2.08e-23
+GATase	pfam00117	
+Glutamine amidotransferase class-I;
+178414-179004	4.44e-19
+TetR_C_11	pfam16859	
+Tetracyclin repressor-like, C-terminal domain; This family of bacterial transcriptional ...
+135625-135957	2.42e-18
+VWA_2	pfam13519	
+von Willebrand factor type A domain;
+58783-59112	4.18e-18
+CMD	pfam02627	
+Carboxymuconolactone decarboxylase family; Carboxymuconolactone decarboxylase (CMD) EC:4.1.1. ...
+106969-107220	2.78e-14
+AAA_lid_2	pfam17863	
+AAA lid domain; This entry represents the alpha helical AAA+ lid domain that is found to the ...
+57232-57429	3.39e-13
+TetR_N	pfam00440	
+Bacterial regulatory proteins, tetR family;
+135454-135594	2.16e-11
+Fer4_8	pfam13183	
+4Fe-4S dicluster domain; Superfamily includes proteins containing domains which bind to ...
+134257-134472	1.04e-08
+PIN	pfam01850	
+PIN domain;
+141520-141891	4.45e-07
+IMS_HHH	pfam11798	
+IMS family HHH motif; These proteins are involved in UV protection, eg.
+114724-114819	3.57e-05
+HTH_24	pfam13412	
+Winged helix-turn-helix DNA-binding;
+33421-33543	5.58e-05
+Acyltransferase	pfam01553	
+Acyltransferase; This family contains acyltransferases involved in phospholipid biosynthesis ...
+130192-130551	5.99e-05
+SecG	pfam03840	
+Preprotein translocase SecG subunit;
+4540-4746	1.37e-03
+MM_CoA_mutase	pfam01642	
+Methylmalonyl-CoA mutase; The enzyme methylmalonyl-CoA mutase is a member of a class of ...
+71267-72817	0e+00
+Aminotran_5	pfam00266	
+Aminotransferase class-V; This domain is found in amino transferases, and other enzymes ...
+38723-39838	6.02e-164
+MM_CoA_mutase	pfam01642	
+Methylmalonyl-CoA mutase; The enzyme methylmalonyl-CoA mutase is a member of a class of ...
+69410-70831	7.35e-122
+Aminotran_3	pfam00202	
+Aminotransferase class-III;
+151250-152404	7.57e-112
+TIM	pfam00121	
+Triosephosphate isomerase; Triosephosphate isomerase (EC:5.3.1.1) (TIM) is the glycolytic ...
+2270-3022	2.74e-99
+FAD_binding_2	pfam00890	
+FAD binding domain; This family includes members that bind FAD. This family includes the ...
+132149-133243	6.78e-98
+Ferrochelatase	pfam00762	
+Ferrochelatase;
+62138-63019	3.32e-91
+QRPTase_C	pfam01729	
+Quinolinate phosphoribosyl transferase, C-terminal domain; Quinolinate phosphoribosyl ...
+173468-173971	2.06e-74
+SUFBD	pfam01458	
+SUF system FeS cluster assembly, SufBD; Iron-sulphur (FeS) clusters are important cofactors ...
+37040-37717	3.85e-71
+IGPD	pfam00475	
+Imidazoleglycerol-phosphate dehydratase;
+177896-178336	2.48e-66
+AMP-binding	pfam00501	
+AMP-binding enzyme;
+86714-88093	4.50e-65
+Beta-lactamase	pfam00144	
+Beta-lactamase; This family appears to be distantly related to pfam00905 and PF00768 ...
+75188-76246	4.08e-51
+E1-E2_ATPase	pfam00122	
+E1-E2 ATPase;
+44504-45049	3.13e-47
+Succ_DH_flav_C	pfam02910	
+Fumarate reductase flavoprotein C-term; This family contains fumarate reductases, succinate ...
+133424-133804	8.52e-47
+adh_short	pfam00106	
+short chain dehydrogenase; This family contains a wide variety of dehydrogenases.
+120503-121051	4.27e-38
+Molybdopterin	pfam00384	
+Molybdopterin oxidoreductase;
+6632-8017	1.70e-31
+ABC_tran	pfam00005	
+ABC transporter; ABC transporters for a large family of proteins responsible for translocation ...
+48818-49210	2.06e-25
+ADH_N	pfam08240	
+Alcohol dehydrogenase GroES-like domain; This is the catalytic domain of alcohol ...
+105842-106195	7.61e-25
+PseudoU_synth_2	pfam00849	
+RNA pseudouridylate synthase; Members of this family are involved in modifying bases in RNA ...
+117491-117952	7.45e-24
+ABC_tran	pfam00005	
+ABC transporter; ABC transporters for a large family of proteins responsible for translocation ...
+47825-48358	1.15e-22
+BATS	pfam06968	
+Biotin and Thiamin Synthesis associated domain; Biotin synthase (BioB), EC:2.8.1.6, catalyzes ...
+166775-167029	2.28e-21
+QRPTase_N	pfam02749	
+Quinolinate phosphoribosyl transferase, N-terminal domain; Quinolinate phosphoribosyl ...
+173201-173464	4.12e-20
+Molydop_binding	pfam01568	
+Molydopterin dinucleotide binding domain; This domain is found in various molybdopterin - ...
+8351-8677	7.68e-20
+Polyketide_cyc2	pfam10604	
+Polyketide cyclase / dehydrase and lipid transport; This family contains polyketide cylcases ...
+121592-121996	1.93e-17
+Radical_SAM	pfam04055	
+Radical SAM superfamily; Radical SAM proteins catalyze diverse reactions, including unusual ...
+166259-166726	5.89e-16
+VapB_antitoxin	pfam09957	
+Bacterial antitoxin of type II TA system, VapB; VapB is the antitoxin of a bacterial ...
+141311-141439	2.26e-14
+B12-binding	pfam02310	
+B12 binding domain; This domain binds to B12 (adenosylcobamide), it is found in several ...
+72965-73321	7.64e-14
+FeS_assembly_P	pfam01883	
+Iron-sulfur cluster assembly protein; This family has an alpha/beta topology, with 13 ...
+40376-40570	1.33e-12
+PemK_toxin	pfam02452	
+PemK-like, MazF-like toxin of type II toxin-antitoxin system; PemK is a growth inhibitor in E. ...
+73697-73972	9.07e-12
+Hydrolase	pfam00702	
+haloacid dehalogenase-like hydrolase; This family is structurally different from the alpha ...
+45101-45715	5.72e-11
+Glycos_transf_2	pfam00535	
+Glycosyl transferase family 2; Diverse family, transferring sugar from UDP-glucose, ...
+84080-84502	2.31e-10
+ADH_zinc_N	pfam00107	
+Zinc-binding dehydrogenase;
+106397-106729	3.64e-10
+Molybdopterin_N	pfam18364	
+Molybdopterin oxidoreductase N-terminal domain; This is the N-terminal domain of pfam00384 ...
+6500-6622	1.53e-08
+GGDEF_2	pfam17853	
+GGDEF-like domain; This domain is distantly related to the GGDEF domain, suggesting these may ...
+26048-26377	1.83e-08
+HTH_30	pfam13556	
+PucR C-terminal helix-turn-helix domain; This helix-turn-helix domain is often found at the ...
+26525-26686	7.78e-08
+Methyltransf_11	pfam08241	
+Methyltransferase domain; Members of this family are SAM dependent methyltransferases.
+174182-174445	2.81e-07
+2_5_RNA_ligase2	pfam13563	
+2'-5' RNA ligase superfamily; This family contains proteins related to pfam02834. These ...
+154295-154660	5.01e-06
+HTH_58	pfam19575	
+Helix-turn-helix domain; This family of proteins is functionally uncharacterized. However, it ...
+49496-49642	1.50e-05
+DegT_DnrJ_EryC1	pfam01041	
+DegT/DnrJ/EryC1/StrS aminotransferase family; The members of this family are probably all ...
+85214-85348	1.47e-04
+tRNA-synt_1	pfam00133	
+tRNA synthetases class I (I, L, M and V); Other tRNA synthetase sub-families are too ...
+110964-112868	0e+00
+PGK	pfam00162	
+Phosphoglycerate kinase;
+1068-2204	1.16e-167
+MMPL	pfam03176	
+MMPL family; Members of this family are putative integral membrane proteins from bacteria. ...
+136719-137708	7.38e-114
+DNA_pol3_alpha	pfam07733	
+Bacterial DNA polymerase III alpha NTPase domain;
+123027-123842	5.98e-110
+MMPL	pfam03176	
+MMPL family; Members of this family are putative integral membrane proteins from bacteria. ...
+138363-139376	2.13e-96
+SUFBD	pfam01458	
+SUF system FeS cluster assembly, SufBD; Iron-sulphur (FeS) clusters are important cofactors ...
+35958-36551	2.17e-85
+AMP-binding	pfam00501	
+AMP-binding enzyme;
+128025-129359	5.86e-85
+DNA_pol3_finger	pfam17657	
+Bacterial DNA polymerase III alpha subunit finger domain;
+123849-124358	1.44e-78
+FAD_binding_2	pfam00890	
+FAD binding domain; This family includes members that bind FAD. This family includes the ...
+171567-172679	1.67e-69
+DUF6676	pfam20381	
+Family of unknown function (DUF6676); This family of proteins is functionally uncharacterized. ...
+53361-53831	3.21e-69
+AMP-binding	pfam00501	
+AMP-binding enzyme;
+103908-105296	4.72e-65
+adh_short_C2	pfam13561	
+Enoyl-(Acyl carrier protein) reductase; This domain is found in Enoyl-(Acyl carrier protein) ...
+61353-62108	6.44e-63
+F420H2_quin_red	pfam04075	
+F420H(2)-dependent quinone reductase; This family of proteins is found in the genera ...
+139524-139910	9.08e-59
+PHP	pfam02811	
+PHP domain; The PHP (Polymerase and Histidinol Phosphatase) domain is a putative ...
+122106-122666	6.94e-57
+adh_short_C2	pfam13561	
+Enoyl-(Acyl carrier protein) reductase; This domain is found in Enoyl-(Acyl carrier protein) ...
+60621-61280	4.76e-56
+Aminotran_1_2	pfam00155	
+Aminotransferase class I and II;
+176727-177710	3.63e-50
+ECH_1	pfam00378	
+Enoyl-CoA hydratase/isomerase; This family contains a diverse set of enzymes including: ...
+46959-47723	7.42e-41
+SfLAP	pfam11139	
+Sap, sulfolipid-1-addressing protein; SAP is a transmembrane transport protein with six ...
+83262-84005	1.21e-34
+NLPC_P60	pfam00877	
+NlpC/P60 family; The function of this domain is unknown. It is found in several lipoproteins.
+55164-55511	3.28e-32
+PhyH	pfam05721	
+Phytanoyl-CoA dioxygenase (PhyH); This family is made up of several eukaryotic phytanoyl-CoA ...
+79068-79631	4.40e-32
+Band_7	pfam01145	
+SPFH domain / Band 7 family; This family has been called SPFH, Band 7 or PHB domain. Recent ...
+64593-65099	7.08e-31
+DUF5915	pfam19302	
+Domain of unknown function (DUF5915); This presumed domain is found at the C-terminus of ...
+113466-114017	5.99e-26
+HHH_6	pfam14579	
+Helix-hairpin-helix motif; The HHH domain is a short DNA-binding domain.
+124575-124844	6.14e-26
+Anticodon_1	pfam08264	
+Anticodon-binding domain of tRNA ligase; This domain is found mainly hydrophobic tRNA ...
+112998-113426	1.31e-24
+Glycos_transf_2	pfam00535	
+Glycosyl transferase family 2; Diverse family, transferring sugar from UDP-glucose, ...
+85410-85892	1.64e-22
+Fumarate_red_D	pfam02313	
+Fumarate reductase subunit D; Fumarate reductase is a membrane-bound flavoenzyme consisting of ...
+134964-135305	8.55e-22
+Thioredoxin	pfam00085	
+Thioredoxin; Thioredoxins are small enzymes that participate in redox reactions, via the ...
+46497-46775	1.03e-21
+DUF58	pfam01882	
+Protein of unknown function DUF58; This family of prokaryotic proteins have no known function. ...
+57690-57944	3.83e-16
+Thioredoxin	pfam00085	
+Thioredoxin; Thioredoxins are small enzymes that participate in redox reactions, via the ...
+46107-46406	1.42e-12
+TetR_N	pfam00440	
+Bacterial regulatory proteins, tetR family;
+109182-109322	9.06e-12
+Succ_DH_flav_C	pfam02910	
+Fumarate reductase flavoprotein C-term; This family contains fumarate reductases, succinate ...
+172806-173027	2.54e-10
+NfeD	pfam01957	
+NfeD-like C-terminal, partner-binding; NfeD-like proteins are widely distributed throughout ...
+64248-64472	8.73e-10
+SufBD_N	pfam19295	
+SufBD protein N-terminal region; This entry represents the N-terminal part of the SufB and ...
+34581-34763	2.00e-07
+Intein_splicing	pfam14890	
+Intein splicing domain; Inteins are segments of protein which excise themselves from a ...
+35043-35933	9.31e-07
+tRNA_anti-codon	pfam01336	
+OB-fold nucleic acid binding domain; This family contains OB-fold domains that bind to nucleic ...
+125142-125372	8.81e-06
+TetR_C_24	pfam17932	
+Tetracyclin repressor-like, C-terminal domain; TetR family regulators are involved in the ...
+109413-109736	8.24e-04
+Hom_end_hint	pfam05203	
+Hom_end-associated Hint; Homing endonucleases are encoded by mobile DNA elements that are ...
+34887-34994	1.39e-03
+Aconitase	pfam00330	
+Aconitase family (aconitate hydratase);
+51341-52948	0e+00
+Transketolase_N	pfam00456	
+Transketolase, thiamine diphosphate binding domain; This family includes transketolase enzymes ...
+15839-16849	7.48e-172
+G6PD_C	pfam02781	
+Glucose-6-phosphate dehydrogenase, C-terminal domain;
+12140-13027	8.74e-158
+G6PD_N	pfam00479	
+Glucose-6-phosphate dehydrogenase, NAD binding domain;
+13031-13582	6.34e-89
+DegT_DnrJ_EryC1	pfam01041	
+DegT/DnrJ/EryC1/StrS aminotransferase family; The members of this family are probably all ...
+81131-82225	1.09e-84
+Glucosamine_iso	pfam01182	
+Glucosamine-6-phosphate isomerases/6-phosphogluconolactonase;
+10466-11146	5.30e-82
+Transket_pyr	pfam02779	
+Transketolase, pyrimidine binding domain; This family includes transketolase enzymes, pyruvate ...
+15242-15796	1.34e-54
+Aconitase_C	pfam00694	
+Aconitase C-terminal domain; Members of this family usually also match to pfam00330. This ...
+50561-50959	2.22e-44
+Bac_globin	pfam01152	
+Bacterial-like globin; This family of heme binding proteins are found mainly in bacteria. ...
+118832-119176	2.22e-40
+D5_N	pfam08706	
+D5 N terminal like; This domain is found in D5 proteins of DNA viruses and bacteriophage P4 ...
+161087-161524	5.60e-36
+NLPC_P60	pfam00877	
+NlpC/P60 family; The function of this domain is unknown. It is found in several lipoproteins.
+149852-150190	2.79e-29
+ABC_tran	pfam00005	
+ABC transporter; ABC transporters for a large family of proteins responsible for translocation ...
+30875-31294	3.77e-27
+Methyltransf_25	pfam13649	
+Methyltransferase domain; This family appears to be a methyltransferase domain.
+76694-77032	8.11e-26
+Dodecin	pfam07311	
+Dodecin; Dodecin is a flavin-binding protein,found in several bacteria and few archaea and ...
+77261-77446	1.45e-23
+PE	pfam00934	
+PE family; This family named after a PE motif near to the amino terminus of the domain. The PE ...
+21296-21568	8.13e-23
+ADH_zinc_N	pfam00107	
+Zinc-binding dehydrogenase;
+27026-27316	5.65e-22
+DUF3459	pfam11941	
+Domain of unknown function (DUF3459); This presumed domain is functionally uncharacterized. ...
+141959-142210	7.61e-13
+Alpha-amylase	pfam00128	
+Alpha amylase, catalytic domain; Alpha amylase is classified as family 13 of the glycosyl ...
+142931-143347	9.42e-13
+DUF222	pfam02720	
+Domain of unknown function (DUF222); This family is often found associated to the N-terminus ...
+165152-165460	3.61e-12
+MliC	pfam09864	
+Membrane-bound lysozyme-inhibitor of c-type lysozyme; Lysozymes are ancient and important ...
+118178-118378	1.22e-11
+ADH_N	pfam08240	
+Alcohol dehydrogenase GroES-like domain; This is the catalytic domain of alcohol ...
+27458-27691	1.12e-10
+Transketolase_C	pfam02780	
+Transketolase, C-terminal domain; The C-terminal domain of transketolase has been proposed as ...
+14855-15166	7.07e-10
+4HBT	pfam03061	
+Thioesterase superfamily; This family contains a wide variety of enzymes, principally ...
+107525-107752	1.07e-06
+Glyco_transf_28	pfam03033	
+Glycosyltransferase family 28 N-terminal domain; The glycosyltransferase family 28 includes ...
+96293-96433	3.03e-04
+TAL_FSA	pfam00923	
+Transaldolase/Fructose-6-phosphate aldolase; Transaldolase (TAL) is an enzyme of the pentose ...
+13705-14742	5.11e-70
+DUF222	pfam02720	
+Domain of unknown function (DUF222); This family is often found associated to the N-terminus ...
+164461-165159	4.69e-56
+Asparaginase	pfam00710	
+Asparaginase, N-terminal; This is the N-terminal domain of this enzyme.
+116089-116478	7.21e-33
+DUF2742	pfam10888	
+Protein of unknown function (DUF2742); Members in this family of phage proteins are the ...
+161650-161940	4.36e-32
+OpcA_G6PD_C	pfam20171	
+Glucose-6-phosphate dehydrogenase subunit C-terminal domain; Members of this family are found ...
+11197-11580	1.37e-31
+OpcA_G6PD_assem	pfam10128	
+Glucose-6-phosphate dehydrogenase subunit N-terminal domain; Members of this family are found ...
+11596-11925	1.76e-31
+PE	pfam00934	
+PE family; This family named after a PE motif near to the amino terminus of the domain. The PE ...
+25060-25332	8.13e-23
+CBM_48	pfam02922	
+Carbohydrate-binding module 48 (Isoamylase N-terminal domain); This domain is found in a range ...
+146998-147258	4.29e-22
+PE	pfam00934	
+PE family; This family named after a PE motif near to the amino terminus of the domain. The PE ...
+6118-6369	4.60e-21
+Asparaginase_C	pfam17763	
+Glutaminase/Asparaginase C-terminal domain; This domain is found at the C-terminus of ...
+115609-115944	8.72e-21
+Peptidase_S78	pfam04586	
+Caudovirus prohead serine protease; Family of Caudovirus prohead serine proteases also found ...
+157855-158310	1.97e-16
+SNARE_assoc	pfam09335	
+SNARE associated Golgi protein; This is a family of SNARE associated Golgi proteins. The yeast ...
+68479-68829	2.35e-15
+Alpha-amylase	pfam00128	
+Alpha amylase, catalytic domain; Alpha amylase is classified as family 13 of the glycosyl ...
+144754-145074	3.28e-14
+PE	pfam00934	
+PE family; This family named after a PE motif near to the amino terminus of the domain. The PE ...
+43585-43824	4.51e-14
+TetR_N	pfam00440	
+Bacterial regulatory proteins, tetR family;
+50131-50271	2.65e-11
+SnoaL_2	pfam12680	
+SnoaL-like domain; This family contains a large number of proteins that share the SnoaL fold.
+3757-4053	9.59e-10
+NUDIX	pfam00293	
+NUDIX domain;
+170023-170343	1.22e-05
+AraR_C	pfam19368	
+AraR C-terminal winged HTH domain; This entry represents the C-terminal DNA-binding domain of ...
+169792-169992	2.85e-05
+Alpha-amylase	pfam00128	
+Alpha amylase, catalytic domain; Alpha amylase is classified as family 13 of the glycosyl ...
+146239-146718	9.26e-05
+LIP	pfam03583	
+Secretory lipase; These lipases are expressed and secreted during the infection cycle of these ...
+168255-169091	1.56e-126
+MMPL	pfam03176	
+MMPL family; Members of this family are putative integral membrane proteins from bacteria. ...
+90840-91829	2.25e-105
+Acyl_transf_1	pfam00698	
+Acyl transferase domain;
+100200-101153	1.59e-97
+ketoacyl-synt	pfam00109	
+Beta-ketoacyl synthase, N-terminal domain; The structure of beta-ketoacyl synthase is similar ...
+102000-102743	1.76e-96
+MMPL	pfam03176	
+MMPL family; Members of this family are putative integral membrane proteins from bacteria. ...
+88968-89957	2.79e-79
+PPE	pfam00823	
+PPE family; This family named after a PPE motif near to the amino terminus of the domain. The ...
+127227-127700	2.54e-54
+KR	pfam08659	
+KR domain; This enzymatic domain is part of bacterial polyketide synthases and catalyzes the ...
+96960-97496	2.66e-53
+Phage_capsid	pfam05065	
+Phage capsid family; Family of bacteriophage hypothetical proteins and capsid proteins.
+156393-157190	6.67e-43
+PS-DH	pfam14765	
+Polyketide synthase dehydratase; This is the dehydratase domain of polyketide synthases. ...
+99243-100076	8.49e-42
+Ketoacyl-synt_C	pfam02801	
+Beta-ketoacyl synthase, C-terminal domain; The structure of beta-ketoacyl synthase is similar ...
+101634-101978	1.04e-41
+Resolvase	pfam00239	
+Resolvase, N terminal domain; The N-terminal domain of the resolvase family (this family) ...
+163776-164213	2.55e-31
+Terminase_4	pfam05119	
+Phage terminase, small subunit;
+158532-158819	2.68e-28
+Acyl-CoA_dh_C	pfam12806	
+Acetyl-CoA dehydrogenase C-terminal like; this domain would appear to be the very C-terminal ...
+40809-41195	1.05e-27
+Acyl-CoA_dh_M	pfam02770	
+Acyl-CoA dehydrogenase, middle domain; Central domain of Acyl-CoA dehydrogenase has a ...
+41802-42134	1.64e-17
+Acyl-CoA_dh_1	pfam00441	
+Acyl-CoA dehydrogenase, C-terminal domain; C-terminal domain of Acyl-CoA dehydrogenase is an ...
+41256-41756	3.01e-15
+SGNH	pfam19040	
+SGNH domain (fused to AT3 domains); This entry include SGNH domains that are found fused to ...
+147438-148088	9.71e-15
+ADH_zinc_N_2	pfam13602	
+Zinc-binding dehydrogenase;
+97566-97982	5.51e-14
+KAsynt_C_assoc	pfam16197	
+Ketoacyl-synthetase C-terminal extension; KAsynt_C_assoc represents the very C-terminus of a ...
+101262-101591	1.37e-13
+Recombinase	pfam07508	
+Recombinase; This domain is usually found associated with pfam00239 in putative integrases ...
+163428-163715	2.45e-13
+Acyl_transf_3	pfam01757	
+Acyltransferase family; This family includes a range of acyltransferase enzymes. This domain ...
+148428-149468	2.05e-09
+TetR_N	pfam00440	
+Bacterial regulatory proteins, tetR family;
+3465-3599	1.71e-07
+AcylCoA_DH_N	pfam12418	
+Acyl-CoA dehydrogenase N terminal; This domain family is found in bacteria and eukaryotes, and ...
+42513-42608	3.21e-07
+ADH_N	pfam08240	
+Alcohol dehydrogenase GroES-like domain; This is the catalytic domain of alcohol ...
+98253-98450	3.89e-07
+PP-binding	pfam00550	
+Phosphopantetheine attachment site; A 4'-phosphopantetheine prosthetic group is attached ...
+96525-96704	3.03e-05
+Pentapeptide_2	pfam01469	
+Pentapeptide repeats (8 copies); These repeats are found in many mycobacterial proteins. These ...
+126084-126200	2.68e-04
+ABC2_membrane_3	pfam12698	
+ABC-2 family transporter protein; This family is related to the ABC-2 membrane transporter ...
+29724-30212	3.48e-04
+Zn_ribbon_recom	pfam13408	
+Recombinase zinc beta ribbon domain; This short bacterial protein contains a zinc ribbon ...
+163257-163385	3.71e-04
+Pentapeptide_2	pfam01469	
+Pentapeptide repeats (8 copies); These repeats are found in many mycobacterial proteins. These ...
+126819-126935	5.83e-04
+Pentapeptide_2	pfam01469	
+Pentapeptide repeats (8 copies); These repeats are found in many mycobacterial proteins. These ...
+126939-127055	1.70e-03
+Pentapeptide_2	pfam01469	
+Pentapeptide repeats (8 copies); These repeats are found in many mycobacterial proteins. These ...
+126699-126815	2.05e-03
+Pentapeptide_2	pfam01469	
+Pentapeptide repeats (8 copies); These repeats are found in many mycobacterial proteins. These ...
+126609-126725	2.84e-03
+Pentapeptide_2	pfam01469	
+Pentapeptide repeats (8 copies); These repeats are found in many mycobacterial proteins. These ...
+126468-126578	3.01e-03
