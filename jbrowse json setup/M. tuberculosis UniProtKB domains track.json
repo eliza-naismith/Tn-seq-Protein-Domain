@@ -1,0 +1,32 @@
+{
+  "type": "FeatureTrack",
+  "trackId": "uniprotkb_domains-1720825373951",
+  "name": "UniprotKB domains",
+  "assemblyNames": [
+    "M. tuberculosis"
+  ],
+  "adapter": {
+    "type": "Gff3Adapter",
+    "gffLocation": {
+      "locationType": "LocalPathLocation",
+      "localPath": "/yourpath/data/Mycobacterium tuberculosis/NC_018143.1 UniProtKB domain assembly.gff3"
+    }
+  },
+  "displays": [
+    {
+      "type": "LinearBasicDisplay",
+      "displayId": "uniprotkb_domains-1720825373951-LinearBasicDisplay",
+      "renderer": {
+        "type": "SvgFeatureRenderer",
+        "color1": "rgb(23, 190, 207)",
+        "labels": {
+          "name": "jexl:get(feature,'id')"
+        }
+      }
+    },
+    {
+      "type": "LinearArcDisplay",
+      "displayId": "uniprotkb_domains-1720825373951-LinearArcDisplay"
+    }
+  ]
+}

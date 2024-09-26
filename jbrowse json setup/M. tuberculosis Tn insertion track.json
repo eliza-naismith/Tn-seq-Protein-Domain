@@ -1,0 +1,22 @@
+{
+  "type": "QuantitativeTrack",
+  "trackId": "tn_insertions-1720825454202",
+  "name": "Tn insertions",
+  "assemblyNames": [
+    "M. tuberculosis"
+  ],
+  "adapter": {
+    "type": "BigWigAdapter",
+    "bigWigLocation": {
+      "locationType": "LocalPathLocation",
+      "localPath": "/yourpath/jbrowse json setup/M. tuberculosis bigwig files/Mt_transposon_insertions.bw"
+    }
+  },
+  "displays": [
+    {
+      "type": "LinearWiggleDisplay",
+      "displayId": "tn_insertions-1720825454202-LinearWiggleDisplay",
+      "maxScore": 300
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "type": "FeatureTrack",
+  "trackId": "essentiality_states_full_assembly.gff3-1720824436719",
+  "name": "State",
+  "assemblyNames": [
+    "M. tuberculosis"
+  ],
+  "adapter": {
+    "type": "Gff3Adapter",
+    "gffLocation": {
+      "locationType": "LocalPathLocation",
+      "localPath": "/yourpath/data/Mycobacterium tuberculosis/NC_018143.1 essentiality states assembly.gff3"
+    }
+  },
+  "displays": [
+    {
+      "type": "LinearBasicDisplay",
+      "displayId": "NC_018143.1 essentiality states assembly.gff3-1720824436719-LinearBasicDisplay",
+      "renderer": {
+        "type": "SvgFeatureRenderer",
+        "color1": "jexl:get(feature, 'state') == 'Essential' ? '#d62728' : (get(feature, 'state') == 'Growth advantage' ? '#00BA38' : (get(feature, 'state') == 'Non-essential' ? 'lightgray' : (get(feature, 'state') == 'Growth defect' ? '#2EA9F0' : 'black')))",
+        "color2": "jexl:get(feature, 'state') == 'Essential' ? '#d62728' : (get(feature, 'state') == 'Growth advantage' ? '#00BA38' : (get(feature, 'state') == 'Non-essential' ? 'lightgray' : (get(feature, 'state') == 'Growth defect' ? '#2EA9F0' : 'black')))",
+        "labels": {
+          "name": "jexl:get(feature,'state') || get(feature,'id')"
+        }
+      }
+    },
+    {
+      "type": "LinearArcDisplay",
+      "displayId": "NC_018143.1 essentiality states assembly.gff3-1720824436719-LinearArcDisplay"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "FeatureTrack",
+  "trackId": "genes-1720825344755",
+  "name": "Genes",
+  "assemblyNames": [
+    "M. tuberculosis"
+  ],
+  "adapter": {
+    "type": "Gff3Adapter",
+    "gffLocation": {
+      "locationType": "LocalPathLocation",
+      "localPath": "/yourpath/data/Mycobacterium tuberculosis/NC_018143.1 gene assembly updated.gff3"
+    }
+  },
+  "displays": [
+    {
+      "type": "LinearBasicDisplay",
+      "displayId": "genes-1720825344755-LinearBasicDisplay"
+    },
+    {
+      "type": "LinearArcDisplay",
+      "displayId": "genes-1720825344755-LinearArcDisplay"
+    }
+  ]
+}

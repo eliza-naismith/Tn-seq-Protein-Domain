@@ -1,0 +1,21 @@
+{
+  "type": "QuantitativeTrack",
+  "trackId": "all_ta_sites-1720825424576",
+  "name": "All TA sites",
+  "assemblyNames": [
+    "M. tuberculosis"
+  ],
+  "adapter": {
+    "type": "BigWigAdapter",
+    "bigWigLocation": {
+      "locationType": "LocalPathLocation",
+      "localPath": "/yourpath/jbrowse json setup/M. tuberculosis bigwig files/Mt_all_TA_sites.bw"
+    }
+  },
+  "displays": [
+    {
+      "type": "LinearWiggleDisplay",
+      "displayId": "all_ta_sites-1720825424576-LinearWiggleDisplay"
+    }
+  ]
+}

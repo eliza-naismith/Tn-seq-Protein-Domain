@@ -1,0 +1,29 @@
+{
+  "type": "FeatureTrack",
+  "trackId": "pfam_domains-1720825394117",
+  "name": "Pfam domains",
+  "assemblyNames": [
+    "M. tuberculosis"
+  ],
+  "adapter": {
+    "type": "Gff3Adapter",
+    "gffLocation": {
+      "locationType": "LocalPathLocation",
+      "localPath": "/yourpath/data/Mycobacterium tuberculosis/NC_018143.1 Pfam domain assembly.gff3"
+    }
+  },
+  "displays": [
+    {
+      "type": "LinearBasicDisplay",
+      "displayId": "pfam_domains-1720825394117-LinearBasicDisplay",
+      "renderer": {
+        "type": "SvgFeatureRenderer",
+        "color1": "rgb(148, 103, 189)"
+      }
+    },
+    {
+      "type": "LinearArcDisplay",
+      "displayId": "pfam_domains-1720825394117-LinearArcDisplay"
+    }
+  ]
+}
