@@ -1,9 +1,20 @@
 # JBrowse2 visualisation setup
 
-JBrowse2 desktop application is available from: https://jbrowse.org/jb2/download/
+![image](https://github.com/user-attachments/assets/0ed09119-7c6e-4f68-ba8e-24e9cdce836e)
+
+1. Feature track of gene positions, labelled with the gene names or locus tags (if unnamed);
+2. Feature track for UniProtKB domain positions, labelled with the domain or region names;
+3. Feature track for Pfam domain positions, labelled with the short-domain names and descriptions;
+4. XY-track of Tn-sequencing insertion coordinates on a logarithmic scale;
+5. XY-track for all TA-site coordinates, with each site represented as a count of 1;
+6. Feature track for essentiality state positions, if available, using different colours based on essentiality state type and labelled accordingly.
+
+### Steps to recreating the visualisation setup
+
+JBrowse2 desktop application is available from: https://jbrowse.org/jb2/download/  
 Diesh, C., Stevens, G.J., Xie, P. et al. JBrowse 2: a modular genome browser with views of synteny and structural variation. Genome Biol. 2023;24(74)
 
-Using the _M. tuberculosis_ JSON file set-up, the visualisation can be recreated:
+Using the _M. tuberculosis_ JSON file set-up, the visualisation can be recreated for _M. tuberculosis_ or _M. bovis_:
 1. Download the GitHub repository to local computer.
 2. Launch a new session in JBrowse2 and open the corresponding reference fasta file as a FastaAdapter.
    * Assembly name & assembly display name should be set to: __M. tuberculosis__ or __M. bovis__
